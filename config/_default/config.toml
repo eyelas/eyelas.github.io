@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "eyelas.github.io"
+baseurl = "https://eyelas.github.io/"
 languageCode = "zh-cn"
 title = "我是网站名称"
 
